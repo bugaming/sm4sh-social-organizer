@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fighters>
+  <fighter>Mario</fighter>
+  <fighter>Luigi</fighter>
+  <fighter>Peach</fighter>
+  <fighter>Bowser</fighter>
+  <fighter>Yoshi</fighter>
+  <fighter>Rosalina</fighter>
+  <fighter>Bowser Jr</fighter>
+  <fighter>Wario</fighter>
+  <fighter>Game and Watch</fighter>
+  <fighter>DK</fighter>
+  <fighter>Diddy Kong</fighter>
+  <fighter>Link</fighter>
+  <fighter>Zelda</fighter>
+  <fighter>Sheik</fighter>
+  <fighter>Ganondorf</fighter>
+  <fighter>Toon Link</fighter>
+  <fighter>Samus</fighter>
+  <fighter>Zero Suit Samus</fighter>
+  <fighter>Pit</fighter>
+  <fighter>Palutena</fighter>
+  <fighter>Marth</fighter>
+  <fighter>Ike</fighter>
+  <fighter>Robin</fighter>
+  <fighter>Kirby</fighter>
+  <fighter>King Dedede</fighter>
+  <fighter>Meta Knight</fighter>
+  <fighter>Little Mac</fighter>
+  <fighter>Fox</fighter>
+  <fighter>Falco</fighter>
+  <fighter>Pikachu</fighter>
+  <fighter>Charizard</fighter>
+  <fighter>Lucario</fighter>
+  <fighter>Jigglypuff</fighter>
+  <fighter>Greninja</fighter>
+  <fighter>Duck Hunt</fighter>
+  <fighter>ROB</fighter>
+  <fighter>Ness</fighter>
+  <fighter>Captain Falcon</fighter>
+  <fighter>Villager</fighter>
+  <fighter>Olimar</fighter>
+  <fighter>Wii Fit Trainer</fighter>
+  <fighter>Dr Mario</fighter>
+  <fighter>Dark Pit</fighter>
+  <fighter>Lucina</fighter>
+  <fighter>Shulk</fighter>
+  <fighter>Pacman</fighter>
+  <fighter>Megaman</fighter>
+  <fighter>Sonic</fighter>
+  <fighter>Random</fighter>
+</fighters>
